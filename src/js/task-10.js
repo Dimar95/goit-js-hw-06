@@ -55,6 +55,3 @@ function destroyBoxes() {
   divBoxRef.innerHTML = '';
   divElArray.splice(0, divElArray.length)
 }
-
-
-// valueAsNumber
